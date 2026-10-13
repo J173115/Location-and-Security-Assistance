@@ -50,7 +50,7 @@ export default function AssistScreen() {
     );
   }
   finally {
-    setIsLocating(false);
+    setIsLocating(false); 
   } 
   }
 
