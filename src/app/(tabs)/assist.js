@@ -51,7 +51,7 @@ export default function AssistScreen() {
   }
   finally {
     setIsLocating(false);
-  }
+  } 
   }
 
   async function handleSecurityCall() {
