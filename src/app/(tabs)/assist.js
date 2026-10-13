@@ -43,7 +43,7 @@ export default function AssistScreen() {
 
     // TODO 4: Save the returned location with setLocation().
     setLocation(currentLocation);
-  }
+  } 
   catch (error) {
     setErrorMessage(
       'CampusSafe could not determine your location. You can try again or contact campus security without sharing location.'
